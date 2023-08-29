@@ -1,0 +1,118 @@
+20
+2
+Turnip     S 2 120 60 4
+Strawberry M 3 150 30 8 2
+30
+5
+Eggplant    M 5  120 80  9 3
+Carrot      S 5  300 60  7
+SweetPotato M 35 300 120 5 2
+sPinach     S 5  200 80  5
+GreenPepper M 5  150 40  7 2
+50
+10
+Eggrolls    S 3  23  31   12 
+GreenEggs   M 4  211 331  13 30
+BrownEggs   S 54 67  11   7  
+Chickens    S 2  42  1231 3  
+TheseAre    M 3  314 11   22 4
+NotUsual    S 1  978 1    34 
+cRops       M 5  34  234  98 2
+bUt         M 2  1   43   32 3
+tHisIsNot   M 11 33  234  2  1
+reAlLife    S 7  543 7    34 
+1
+1
+Cotton      M 1 1 1 1 1
+30
+5
+Potato      M 5 5 5 5 5
+pOtato      M 4 4 4 4 4
+poTato      M 3 3 3 3 3
+potAto      M 2 2 2 2 2
+potatoE     M 1 1 1 1 1
+30
+5
+Potato      S 5 5 5 5
+pOtato      S 4 4 4 4
+poTato      S 3 3 3 3
+potAto      S 2 2 2 2
+potatoE     S 1 1 1 1
+1000
+0
+20
+2
+Cheese    S 4 1000 10 3
+Fries     M 5 2000 20 4 2
+50
+10
+aaAAAAAA S 12 42  4   4
+bbbBBBBB M 1  588 74  3 3
+DDdddddE M 6  65  333 1 5
+EEeeeEee S 43 3   54  3
+FffFffFf M 23 99  34  6 7
+GgggGggg S 45 79  76  5
+cccccccC M 56 7   534 4 11
+hhHhhhhH S 62 35  78  3
+iiiiiIii M 42 12  56  2 17
+jjjJjjjj M 67 21  23  1 13
+20
+2
+Turnip	S 2 120 60 4
+Strawberry M 3 150 30 8 2
+30 
+5
+Eggplnt M 5 120 80 9 3
+Carrot S 5 300 60 7
+SweetPotato M 35 300 120 5 2
+sPinach S 5 200 80 5
+GreenPepper M 5 150 40 7 2
+10
+2
+FreeBeer        S 10 0 50 4
+PricelessFood   M 10 100 0 5 2
+9
+1
+FoodGrownThrice S 1 100 100 4
+8
+1
+FoodGrownTwice S 1 100 100 4
+999
+0
+11
+1
+BigBlingFood S 1 999999 111111 1
+2
+1
+DoesntGetGrown S 1 0 5000 8
+8
+2
+CheapFood     S 1 8 1 2
+ExpensiveFood S 1 100 1 3
+2
+1
+************SomeSortofCrop,ThatHasA:ReallyFreakin'LongName,Yo!@@#@#^$#^%$&^$ S 1 1 1 1
+9
+9
+Fruitys       S       1          10  20          2
+Grapes         S     1       20 10           9
+Apples       S    2        10 10            4
+Turkeys         S    1       5 5               6
+superdupercrazywhatchamacallitS   M     1        100 1   5    1
+oRCHIDS    M    1   44   40    2    9
+NAVELS  S       1   34  44      2
+Bananas    M         99    1 20              10   1
+Oranges            M   1    20 20        99  1
+200
+10
+aBcdefghij S 22 100 60 300
+abcdEfghij M 27 200 132 99 50
+abcdefgHij S 35 300 177 400
+abcdefGhij M 42 400 203 298 1
+abcdefghiJ S 1 500 301 100
+abCdefghij M 5 600 301 301 1
+Abcdefghij S 7 700 401 177
+abcdefghIj M 4 800 501 501 1
+abcdeFghij S 17 900 604 98
+abcDefghij M 41 950 612 195 2
+0
